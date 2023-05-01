@@ -1,0 +1,10 @@
+{
+    "program": "remote_viewing_protocol.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpGGPQpYNStzGgmEWVN3gwG2CxbWUA2fqRnMBAS17cMHrf",
+        "address": "aleo1jc8qkeqx0tr8ekgj9c0dn6fkpln07h29h764afxnpmxx729mcgqs69zqjy"
+    },
+    "license": "MIT"
+}

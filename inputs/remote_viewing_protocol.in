@@ -1,0 +1,20 @@
+// The program input for remote_viewing_protocol/src/main.leo
+[issue_handle]
+public x_1: u8 = 38u8;
+public x_2: u8 = 242u8;
+public y_1: u8 = 49u8;
+public y_2: u8= 123u8;
+aes_cmp_target_ciphertext: u64 = 8483u64;
+aes_cmp_psk: u64 = 0u64;
+
+[submit_viewing_session]
+public op: address = aleo1jc8qkeqx0tr8ekgj9c0dn6fkpln07h29h764afxnpmxx729mcgqs69zqjy;
+public handle: Handle = Handle {
+    active: true,
+    x_1: 38u8,
+    x_2: 242u8,
+    y_1: 49u8,
+    y_2: 123u8,
+};
+public aes_cmp_target_ciphertext: u64 = 1337u64;
+aes_cmp_psk: u64 = 42u64;
